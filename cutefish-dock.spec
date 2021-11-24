@@ -32,7 +32,7 @@ CutefishOS application dock.
 %lang_package
 
 %prep
-%autosetup -n %{oname}-%{verson} -p1
+%autosetup -n %{oname}-%{version} -p1
 
 %build
 %cmake
