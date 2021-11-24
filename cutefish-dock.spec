@@ -23,6 +23,8 @@ BuildRequires:  pkgconfig(Qt5Widgets)
 BuildRequires:  pkgconfig(Qt5X11Extras)
 BuildRequires:  pkgconfig(dbusmenu-qt5)
 
+Requires:       qt5-qtquickcontrols2
+Requires:       qt5-qtgraphicaleffects
 Requires:       cutefish
 Requires:       fishui
 
