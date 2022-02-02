@@ -1,7 +1,7 @@
 %define oname dock
 
 Name:           cutefish-dock
-Version:        0.7
+Version:        0.8
 Release:        1
 Summary:        Application Dock for Cutefish
 License:        GPL-3.0-or-later
