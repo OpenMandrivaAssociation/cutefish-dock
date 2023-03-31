@@ -2,7 +2,7 @@
 
 Name:           cutefish-dock
 Version:        0.8
-Release:        1
+Release:        2
 Summary:        Application Dock for Cutefish
 License:        GPL-3.0-or-later
 Group:          System/GUI/Other
